@@ -1,3 +1,4 @@
+# Cipher Challenge
 This is a repository of all the scripts I wrote to help me break the ciphers in the National Cipher Challenge.
 It also has my solutions to only the 2023 and 2024 Cipher Challenges.
 
